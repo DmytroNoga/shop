@@ -1,0 +1,1 @@
+<h3 align="center"><a href = "all_products.php">All Products</a></h3>
