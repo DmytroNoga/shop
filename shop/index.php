@@ -4,9 +4,10 @@
 include 'welcome.php';
 include 'head.php';
 
-
-echo "Good bye!";
-
-echo "Hello world!!!";
+if(1 != 2) {
+	echo "Good bye!";
+}
+else
+	echo "Hello world!!!";
 
 ?>
