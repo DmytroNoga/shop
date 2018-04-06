@@ -4,5 +4,5 @@
 include 'welcome.php';
 include 'head.php';
 
-
+echo "Good bye!";
 ?>
